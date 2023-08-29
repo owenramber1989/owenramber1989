@@ -11,9 +11,10 @@ Welcome to my Github page! I am a college student from China major in computer s
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Bachelor Degree
-- Reading source code of PostgresQL, Mysql, DuckDB, TiDB, OceanBase, ClickHouse
+- Studying for my Computer Science Bachelor's Degree
+- Analyzing source code of PostgresQL, Mysql, DuckDB, TiDB, OceanBase, ClickHouse
 - Taking online courses about DBMS implementation (*thanks to Andy*) and operating systems
+- Learning functional programming and French
 - Trying to be a contributor of DuckDB 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
