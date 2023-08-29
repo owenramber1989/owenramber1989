@@ -11,16 +11,19 @@ Welcome to my Github page! I am a college student from China major in computer s
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Bachelor Degree  
-- Taking online courses about DBMS implementation and operating systems. 
+- Finish my Computer Science Bachelor Degree
+- Reading source code of PostgresQL, Mysql, DuckDB, TiDB, OceanBase, ClickHouse
+- Taking online courses about DBMS implementation (*thanks to Andy*) and operating systems
 - Trying to be a contributor of DuckDB 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day( or reading source code of some splendid projects)
+- Drink less coffee
 - Losing 20 pounds
 - Improving my English
 - Improving my chess skills
+- ~~find a gf~~
 
 #### :computer: Programming languages and tools: 
 <p>
