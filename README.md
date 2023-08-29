@@ -24,7 +24,7 @@ Welcome to my Github page! I am a college student from China major in computer s
 - Losing 20 pounds
 - Improving my English
 - Improving my chess skills
-- ~~find a gf~~
+- This is gonna be my 💖favorite💖 album! ➡️➡️➡️
 
 #### :computer: Programming languages and tools: 
 <p>
