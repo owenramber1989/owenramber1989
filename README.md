@@ -7,18 +7,18 @@
 
 Welcome to my Github page! I am a college student from China major in computer science and I am currently in my junior year at the Huazhong University of Science and Technology!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://twitter.com/taylorswift13/status/1689521888903786496/photo/1" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelor Degree  
 - Taking online courses about DBMS implementation and operating systems. 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Trying to be a contributor of DuckDB 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day( or reading source code of some open source projects)
-- ～～Exercising 3 days a week～～
+- Coding at least 4 hours a day( or reading source code of some splendid projects)
+- Losing 20 pounds
 - Improving my English
 - Improving my chess skills
 
@@ -26,17 +26,17 @@ Welcome to my Github page! I am a college student from China major in computer s
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=owenramber1989&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_calcite/apache_calcite-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
