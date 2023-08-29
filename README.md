@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am a college student from China major in computer science and I am currently in my junior year at the Huazhong University of Science and Technology!  
 
-<img align="right" alt="img" src="https://twitter.com/taylorswift13/status/1689521888903786496/photo/1" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/owenramber1989/db_papers/blob/main/ezgif.com-webp-to-jpg.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
