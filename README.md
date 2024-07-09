@@ -5,26 +5,22 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zhjm03Jinming)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:owenramber1989@gmail.com)
 
-Welcome to my Github page! I am a college student from China major in computer science and I am currently in my junior year at the Huazhong University of Science and Technology!  
+Welcome to my Github page! I am a CS student from China, currently interning at Tencent. 上班好累555
 
-<img align="right" alt="img" src="https://github.com/owenramber1989/db_papers/blob/main/ezgif.com-webp-to-jpg.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://store.nintendo.com.hk/media/catalog/product/cache/a7267a3b8c99c74f0bde248fd00edb94/9/5/95989ab7475e1bec6ab67f7c63eb93706ae52dd721d66c1af2250fa3b6cbc663_1663056878.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Studying for my Computer Science Bachelor's Degree
-- Analyzing source code of PostgresQL, Mysql, DuckDB, TiDB, OceanBase, ClickHouse
-- Taking online courses about DBMS implementation (*thanks to Andy*) and operating systems
-- Learning functional programming and French
-- Trying to be a contributor of DuckDB 🚀 *coming soon*
+- Playing and Collecting video games released on Nintentdo Switch and PlayStation4&5.
+- Learning everything related to database management system.
+- Learning Japanese and French.
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day( or reading source code of some splendid projects)
-- Drink less coffee
 - Losing 20 pounds
 - Improving my English
 - Improving my chess skills
-- This is gonna be my 💖favorite💖 album! ➡️➡️➡️
+- The super hard mode of Fire Emblem Engage! ➡️➡️➡️
 
 #### :computer: Programming languages and tools: 
 <p>
