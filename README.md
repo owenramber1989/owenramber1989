@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zhjm03Jinming)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:owenramber1989@gmail.com)
 
-Welcome to my Github page! I am a CS student from China, currently interning at Tencent. 【上班好累】【我爱腾讯】
+Welcome to my Github page!
 
 <img align="right" alt="img" src="https://store.nintendo.com.hk/media/catalog/product/cache/a7267a3b8c99c74f0bde248fd00edb94/9/5/95989ab7475e1bec6ab67f7c63eb93706ae52dd721d66c1af2250fa3b6cbc663_1663056878.jpg" width="50%" height="auto" />
 
